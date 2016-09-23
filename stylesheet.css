@@ -1,14 +1,17 @@
 body
 {
 	background-color: #ebebe0;
-}
+ 	margin: 0 auto;
+ }
 
 
-
-#sectionOne
+#firstdiv
 {
-	display: block;
+	width: 800px;
+	margin: 0 auto;
+	position: relative;
 }
+
 
 
 img
@@ -20,5 +23,61 @@ img
 	-ms-transform: rotate(-7deg); /* IE 9 */
     -webkit-transform: rotate(-7deg); /* Safari */
     transform: rotate(-7deg); /* Standard syntax */
-	
 }
+
+
+
+a:hover
+{
+	color: red;
+}
+
+a:link
+{
+	color: hotpink;
+}
+
+
+
+#paragraph
+{
+	line-height: 25%;
+	padding:  30px 0px 30px 0px;
+}
+
+
+
+
+#qualidiv
+{
+	padding-top: 30px;
+}
+
+
+
+.quali
+{
+	float: left;
+	padding-right: 50px;
+	padding-left: 100px;
+	border-right:  black solid;
+	height: 60px;
+	font-family: "Times New Roman", Georgia, Serif ;
+	font-weight: 900;
+	font-size: 130%;
+	font-style: oblique; 
+}
+
+
+
+.qualipara
+{
+	line-height: 25%;
+	padding-left: 50px;
+}
+
+
+
+
+
+
