@@ -1,0 +1,24 @@
+body
+{
+	background-color: #ebebe0;
+}
+
+
+
+#sectionOne
+{
+	display: block;
+}
+
+
+img
+{
+	position: absolute;
+	right: 70px;
+	width: 200px;
+	height: 200px;
+	-ms-transform: rotate(-7deg); /* IE 9 */
+    -webkit-transform: rotate(-7deg); /* Safari */
+    transform: rotate(-7deg); /* Standard syntax */
+	
+}
