@@ -80,7 +80,7 @@ a:link
 #right
 {
 	width: 65%;
-	background-color: red;
+	/*background-color: red;*/
 	height: 400px;
 	float: left;
 	padding-top: 30px;
