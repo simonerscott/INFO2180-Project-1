@@ -112,12 +112,32 @@ a:link
 #spanid
 {
 	font-size: 100%;
-	color: #808080; /*C6C6C6*/
+	color: #808080; 
 	float: right;
 	font-style: oblique;
 	font-weight: bold;
 }
 
+br.spacing
+{
+	line-height: 300%;
+}
+
+
+br.spacingskill
+{
+	line-height: 170%;
+}
+
+br.spaceskill
+{
+	line-height: 0%;
+}
+
+br.space
+{
+	line-height: 90%;
+}
 
 
 
